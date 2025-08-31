@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/99-scratchpad/2025/08-August/2025-08-31-Sun/01-start-2025-08-31.md",
+                "file": "content/99-scratchpad/2025/08-August/2025-08-31-Sun/02-initial-thoughts-2025-08-31.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-start-2025-08-31"
+              "title": "02-initial-thoughts-2025-08-31"
             }
           }
         ]
@@ -191,10 +191,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cafd50ccd123f890",
+  "active": "decdbbb8151243de",
   "lastOpenFiles": [
-    "content/99-scratchpad/2025/08-August/2025-08-31-Sun/02-initial-thoughts-2025-08-31.md",
     "content/99-scratchpad/2025/08-August/2025-08-31-Sun/01-start-2025-08-31.md",
+    "content/99-scratchpad/2025/08-August/2025-08-31-Sun/02-initial-thoughts-2025-08-31.md",
     "content/10-obsidian/templates/01-start.md",
     "content/10-obsidian/templates/new-note.md",
     "content/99-scratchpad/2025/08-August/2025-08-31-Sun",

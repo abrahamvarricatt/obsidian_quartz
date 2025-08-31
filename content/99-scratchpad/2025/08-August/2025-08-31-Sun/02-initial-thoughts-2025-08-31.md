@@ -17,3 +17,20 @@ I just noticed that my default template to create daily notes - these start page
 
 Just updated the front matter created/modified values. Hopefully, this will make the posts easier to timestamp? 
 
+Just installed the plugin "Emoji Autocomplete". Lets add a smiley face = 😄 . That looks nice. What about flags? 🇨🇦 Nice!
+
+I'm curious to see how code snippets work with Quartz. Lets put in some python,
+
+```python
+print("Hello World")
+for i in range(20):
+    print("we are still counting")
+```
+
+And here is a mermaidJS diagram,
+
+```mermaid
+flowchart TD 
+    Start --> Stop
+
+```
