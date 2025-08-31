@@ -5,9 +5,12 @@ echo "running build"
 git status
 
 # pull branch v4_personal
-git remote set-branches origin 'v4_personal'
+git remote set-branches origin '*'
 git fetch --depth 1 origin v4_personal
 git checkout v4_personal
+
+# Make sure we've got this too?
+git fetch --depth 1 origin public_notes
 
 ls # hope this shows everything?
 
