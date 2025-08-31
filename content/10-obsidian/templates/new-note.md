@@ -1,7 +1,7 @@
 ---
 tags: []
-created-on: "<% tp.date.now("YYYY-MM-DD") %>"
-modified-on: []
+created: "<% tp.date.now("YYYY-MM-DD") %>"
+modified: []
 ---
 ###### References
 
