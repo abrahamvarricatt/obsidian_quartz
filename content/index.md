@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcome!
 ---
 
-This is a blank Quartz installation.
+If you are reading this, please be aware that things are work-in-progress. I'm experimenting if it might be easier to switch my blogging tool to obsidian and am yet to decide. 
 
