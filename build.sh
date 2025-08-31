@@ -12,17 +12,15 @@ git checkout v4_personal
 # Make sure we've got this too?
 git fetch --depth 1 origin public_notes
 
-ls # hope this shows everything?
-
-echo "---"
-cat quartz.config.ts  # to validate it exists
-echo "--- quartz.config.ts OVER"
 
 echo "purging dummy content folder"
 rm -rf content
 
 echo "copy content folder from public_notes branch"
-git checkout public_notes -- content
+
+git branch # for debugging
+
+git checkout origin/public_notes -- content
 
 # list node and npm versions
 node --version
