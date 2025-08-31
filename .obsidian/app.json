@@ -1,1 +1,13 @@
-{}
+{
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "autoPairMarkdown": false,
+  "useTab": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "build"
+  ],
+  "showInlineTitle": false
+}
