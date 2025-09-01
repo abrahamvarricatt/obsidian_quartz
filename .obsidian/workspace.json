@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "52cd36e5426ffd9e",
+        "id": "b615a2b3e23390a3",
         "type": "tabs",
         "children": [
           {
-            "id": "c4eabf1b292397d2",
+            "id": "b92d9851795ebf4b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/99-scratchpad/2025/09-September/2025-09-01-Mon/03-learning-golang-functions-2025-09-01.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "03-learning-golang-functions-2025-09-01"
             }
           }
         ]
@@ -187,12 +191,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c4eabf1b292397d2",
+  "active": "b92d9851795ebf4b",
   "lastOpenFiles": [
+    "content/99-scratchpad/2025/09-September/2025-09-01-Mon/02-learning-golang-conditionals-2025-09-01.md",
+    "content/99-scratchpad/2025/09-September/2025-09-01-Mon/03-learning-golang-functions-2025-09-01.md",
+    "content/99-scratchpad/2025/08-August/2025-08-31-Sun/03-learning-golang-2025-08-31.md",
+    "content/99-scratchpad/2025/09-September/2025-09-01-Mon/01-start-2025-09-01.md",
+    "content/99-scratchpad/2025/09-September/2025-09-01-Mon",
+    "content/99-scratchpad/2025/09-September",
     "content/10-obsidian/templates/new-note.md",
     "content/99-scratchpad/2025/08-August/2025-08-31-Sun/01-start-2025-08-31.md",
     "content/99-scratchpad/2025/08-August/2025-08-31-Sun/02-initial-thoughts-2025-08-31.md",
-    "content/99-scratchpad/2025/08-August/2025-08-31-Sun/03-learning-golang-2025-08-31.md",
     "content/10-obsidian/templates/01-start.md",
     "content/99-scratchpad/2025/08-August/2025-08-31-Sun",
     "content/99-scratchpad/2025/08-August",

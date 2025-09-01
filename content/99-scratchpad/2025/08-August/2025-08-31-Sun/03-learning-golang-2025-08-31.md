@@ -1,6 +1,7 @@
 ---
 tags:
   - golang
+  - boot-dot-dev
 created: 2025-08-31
 modified: []
 ---
