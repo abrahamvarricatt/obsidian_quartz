@@ -1,6 +1,7 @@
 ---
-tags: []
-created: "2025-08-31"
+tags:
+  - obsidian-quartz
+created: 2025-08-31
 modified: []
 ---
 ###### References

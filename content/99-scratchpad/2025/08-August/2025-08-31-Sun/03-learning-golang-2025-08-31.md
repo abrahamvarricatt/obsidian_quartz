@@ -1,7 +1,6 @@
 ---
 tags:
   - golang
-  - boot-dot-dev
 created: 2025-08-31
 modified: []
 ---
@@ -10,6 +9,8 @@ modified: []
 
 ---
 # Introduction
+
+Some random notes I took when following the basic #golang tutorial from [[https://boot.dev|Boot.dev]]
 
 Here is a basic "Hello World" program in Go,
 
