@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b615a2b3e23390a3",
+        "id": "5cda61feb98f8ffc",
         "type": "tabs",
         "children": [
           {
-            "id": "b92d9851795ebf4b",
+            "id": "ef4e63814ea28d24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "content/99-scratchpad/2025/09-September/2025-09-01-Mon/03-learning-golang-functions-2025-09-01.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "03-learning-golang-functions-2025-09-01"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -87,6 +87,7 @@
       {
         "id": "9cfe1f5bf1286b2c",
         "type": "tabs",
+        "dimension": 28.33333333333333,
         "children": [
           {
             "id": "b87bffeb108f627e",
@@ -137,20 +138,44 @@
             }
           },
           {
+            "id": "9e36ececb55a159a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "a688d7a25aca3911",
+        "type": "tabs",
+        "dimension": 22.16666666666667,
+        "children": [
+          {
             "id": "d16725215c84e495",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/99-scratchpad/2025/08-August/2025-08-31-Sun/01-start-2025-08-31.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01-start-2025-08-31"
+              "title": "Outline"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "7f8349c8c273f667",
+        "type": "tabs",
+        "dimension": 49.5,
+        "children": [
           {
             "id": "decdbbb8151243de",
             "type": "leaf",
@@ -162,17 +187,16 @@
             }
           },
           {
-            "id": "9e36ececb55a159a",
+            "id": "86329f3e2b3236a0",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "git-history-view",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "history",
+              "title": "History"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,12 +215,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b92d9851795ebf4b",
+  "active": "ef4e63814ea28d24",
   "lastOpenFiles": [
-    "content/99-scratchpad/2025/09-September/2025-09-01-Mon/02-learning-golang-conditionals-2025-09-01.md",
-    "content/99-scratchpad/2025/09-September/2025-09-01-Mon/03-learning-golang-functions-2025-09-01.md",
-    "content/99-scratchpad/2025/08-August/2025-08-31-Sun/03-learning-golang-2025-08-31.md",
     "content/99-scratchpad/2025/09-September/2025-09-01-Mon/01-start-2025-09-01.md",
+    "content/99-scratchpad/2025/09-September/2025-09-01-Mon/Untitled.base",
+    "content/99-scratchpad/2025/09-September/2025-09-01-Mon/03-learning-golang-functions-2025-09-01.md",
+    "content/99-scratchpad/2025/09-September/2025-09-01-Mon/02-learning-golang-conditionals-2025-09-01.md",
+    "content/99-scratchpad/2025/08-August/2025-08-31-Sun/03-learning-golang-2025-08-31.md",
     "content/99-scratchpad/2025/09-September/2025-09-01-Mon",
     "content/99-scratchpad/2025/09-September",
     "content/10-obsidian/templates/new-note.md",
