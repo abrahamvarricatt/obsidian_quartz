@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ac28e8ce6d6f5ab7",
+        "id": "5cf941c127100b6d",
         "type": "tabs",
         "children": [
           {
-            "id": "6a84b32852d25af6",
+            "id": "4ec1abc68fa30424",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 250.5
   },
   "right": {
     "id": "9b4b10c42f2a88fe",
@@ -157,13 +157,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/99-scratchpad/2025/09-September/2025-09-01-Mon/04-learning-golang-structs-2025-09-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 04-learning-golang-structs-2025-09-01"
+              "title": "Outline"
             }
           }
         ]
@@ -189,8 +188,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "history",
-              "title": "History"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -207,13 +206,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false
     }
   },
   "active": "decdbbb8151243de",
   "lastOpenFiles": [
+    "content/99-scratchpad/2025/09-September/2025-09-02-Tue/02-learning-golang-interfaces-2025-09-01.md",
+    "content/99-scratchpad/2025/09-September/2025-09-02-Tue/01-start-2025-09-02.md",
+    "content/99-scratchpad/2025/09-September/2025-09-02-Tue",
     "content/99-scratchpad/2025/09-September/2025-09-01-Mon/03-learning-golang-functions-2025-09-01.md",
     "content/99-scratchpad/2025/09-September/2025-09-01-Mon/02-learning-golang-conditionals-2025-09-01.md",
     "content/99-scratchpad/2025/08-August/2025-08-31-Sun/03-learning-golang-2025-08-31.md",
