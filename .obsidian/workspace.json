@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5cda61feb98f8ffc",
+        "id": "ac28e8ce6d6f5ab7",
         "type": "tabs",
         "children": [
           {
-            "id": "ef4e63814ea28d24",
+            "id": "6a84b32852d25af6",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -161,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "content/99-scratchpad/2025/09-September/2025-09-01-Mon/04-learning-golang-structs-2025-09-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 04-learning-golang-structs-2025-09-01"
             }
           }
         ]
@@ -215,13 +212,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ef4e63814ea28d24",
+  "active": "decdbbb8151243de",
   "lastOpenFiles": [
-    "content/99-scratchpad/2025/09-September/2025-09-01-Mon/01-start-2025-09-01.md",
-    "content/99-scratchpad/2025/09-September/2025-09-01-Mon/Untitled.base",
     "content/99-scratchpad/2025/09-September/2025-09-01-Mon/03-learning-golang-functions-2025-09-01.md",
     "content/99-scratchpad/2025/09-September/2025-09-01-Mon/02-learning-golang-conditionals-2025-09-01.md",
     "content/99-scratchpad/2025/08-August/2025-08-31-Sun/03-learning-golang-2025-08-31.md",
+    "content/99-scratchpad/2025/09-September/2025-09-01-Mon/04-learning-golang-structs-2025-09-01.md",
+    "content/99-scratchpad/2025/09-September/2025-09-01-Mon/01-start-2025-09-01.md",
+    "content/99-scratchpad/2025/09-September/2025-09-01-Mon/Untitled.base",
     "content/99-scratchpad/2025/09-September/2025-09-01-Mon",
     "content/99-scratchpad/2025/09-September",
     "content/10-obsidian/templates/new-note.md",
