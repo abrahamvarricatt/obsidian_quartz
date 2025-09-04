@@ -111,3 +111,12 @@ Important thing about `panic` = when a function calls `panic` , the program cras
 
 NOTE: There exists a `log.Fatal` - another approach to dealing with unrecoverable situations. 
 
+Looks like go has the usual `continue` and `break` keywords for loops. 
+
+There is a built-in square root function in #golang ,
+```go
+import ("math")
+
+sqrt = math.Sqrt(x)  // returns float64
+```
+
