@@ -4,10 +4,11 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "smile",
+    "de",
     "man_shrugging",
     "thinking",
-    "canada",
-    "smile"
+    "canada"
   ],
   "highlightMatches": true,
   "strictTrigger": true,

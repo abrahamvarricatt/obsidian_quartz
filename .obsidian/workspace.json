@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "269f8e264897a227",
+        "id": "799b247ee91ede03",
         "type": "tabs",
         "children": [
           {
-            "id": "4af7dbedd3d4002f",
+            "id": "b976394847ffca79",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "content/99-scratchpad/2025/09-September/2025-09-06-Sat/02-learning-golang-maps-2025-09-06.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 02-learning-golang-maps-2025-09-06"
             }
           }
         ]
@@ -211,22 +212,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4af7dbedd3d4002f",
+  "active": "decdbbb8151243de",
   "lastOpenFiles": [
+    "content/99-scratchpad/2025/09-September/2025-09-01-Mon/04-learning-golang-structs-2025-09-01.md",
+    "content/99-scratchpad/2025/09-September/2025-09-06-Sat/02-learning-golang-maps-2025-09-06.md",
     "content/99-scratchpad/2025/09-September/2025-09-04-Thu/02-learning-golang-slices-2025-09-04.md",
+    "content/99-scratchpad/2025/09-September/2025-09-03-Wed/03-learning-golang-loops-2025-09-03.md",
     "content/99-scratchpad/2025/09-September/2025-09-03-Wed/02-learning-golang-errors-2025-09-03.md",
+    "content/99-scratchpad/2025/09-September/2025-09-02-Tue/02-learning-golang-interfaces-2025-09-01.md",
+    "content/99-scratchpad/2025/09-September/2025-09-06-Sat/01-start-2025-09-06.md",
+    "content/99-scratchpad/2025/09-September/2025-09-06-Sat",
+    "content/index.md",
     "content/99-scratchpad/2025/09-September/2025-09-04-Thu/01-start-2025-09-04.md",
     "content/99-scratchpad/2025/09-September/2025-09-04-Thu",
-    "content/99-scratchpad/2025/09-September/2025-09-03-Wed/03-learning-golang-loops-2025-09-03.md",
     "content/99-scratchpad/2025/09-September/2025-09-03-Wed/01-start-2025-09-03.md",
     "content/99-scratchpad/2025/09-September/2025-09-03-Wed",
-    "content/99-scratchpad/2025/09-September/2025-09-02-Tue/02-learning-golang-interfaces-2025-09-01.md",
     "content/99-scratchpad/2025/09-September/2025-09-02-Tue/01-start-2025-09-02.md",
     "content/99-scratchpad/2025/09-September/2025-09-02-Tue",
     "content/99-scratchpad/2025/09-September/2025-09-01-Mon/03-learning-golang-functions-2025-09-01.md",
     "content/99-scratchpad/2025/09-September/2025-09-01-Mon/02-learning-golang-conditionals-2025-09-01.md",
     "content/99-scratchpad/2025/08-August/2025-08-31-Sun/03-learning-golang-2025-08-31.md",
-    "content/99-scratchpad/2025/09-September/2025-09-01-Mon/04-learning-golang-structs-2025-09-01.md",
     "content/99-scratchpad/2025/09-September/2025-09-01-Mon/01-start-2025-09-01.md",
     "content/99-scratchpad/2025/09-September/2025-09-01-Mon/Untitled.base",
     "content/99-scratchpad/2025/09-September/2025-09-01-Mon",
@@ -237,8 +242,6 @@
     "content/10-obsidian/templates/01-start.md",
     "content/99-scratchpad/2025/08-August/2025-08-31-Sun",
     "content/99-scratchpad/2025/08-August",
-    "content/99-scratchpad/2025",
-    "content/99-scratchpad",
-    "content/index.md"
+    "content/99-scratchpad/2025"
   ]
 }
