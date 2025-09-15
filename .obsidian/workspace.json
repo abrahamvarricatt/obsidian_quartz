@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6b0f5ae9560da792",
+        "id": "3cefda14eba724b1",
         "type": "tabs",
         "children": [
           {
-            "id": "79b92774770c2192",
+            "id": "61ba033e5bfcf6db",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -211,8 +211,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c34b124b9b36576e",
+  "active": "61ba033e5bfcf6db",
   "lastOpenFiles": [
+    "content/99-scratchpad/2025/09-September/2025-09-15-Mon/02-learning-golang-packages-modules-2025-09-15.md",
+    "content/99-scratchpad/2025/09-September/2025-09-15-Mon/01-start-2025-09-15.md",
+    "content/99-scratchpad/2025/09-September/2025-09-15-Mon",
     "content/99-scratchpad/2025/09-September/2025-09-03-Wed/02-learning-golang-errors-2025-09-03.md",
     "content/99-scratchpad/2025/09-September/2025-09-12-Fri/02-learning-golang-pointers-2025-09-12.md",
     "content/99-scratchpad/2025/09-September/2025-09-12-Fri/01-start-2025-09-12.md",
@@ -242,7 +245,6 @@
     "content/99-scratchpad/2025/08-August/2025-08-31-Sun/01-start-2025-08-31.md",
     "content/99-scratchpad/2025/08-August/2025-08-31-Sun/02-initial-thoughts-2025-08-31.md",
     "content/10-obsidian/templates/01-start.md",
-    "content/99-scratchpad/2025/08-August/2025-08-31-Sun",
-    "content/99-scratchpad/2025/08-August"
+    "content/99-scratchpad/2025/08-August/2025-08-31-Sun"
   ]
 }
