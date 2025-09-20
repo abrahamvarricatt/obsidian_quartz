@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "935d190f4321231b",
+        "id": "0ebd6a6b9695fe94",
         "type": "tabs",
         "children": [
           {
-            "id": "56b12e16c5a549fb",
+            "id": "c2bf80d0253c3b82",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -211,10 +211,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "56b12e16c5a549fb",
+  "active": "c2bf80d0253c3b82",
   "lastOpenFiles": [
-    "content/99-scratchpad/2025/09-September/2025-09-19-Fri/02-learning-golang-channels-2025-09-19.md",
+    "content/99-scratchpad/2025/09-September/2025-09-19-Fri/03-learning-golang-mutexes-2024-09-19.md",
     "content/99-scratchpad/2025/09-September/2025-09-19-Fri/01-start-2025-09-19.md",
+    "content/99-scratchpad/2025/09-September/2025-09-19-Fri/02-learning-golang-channels-2025-09-19.md",
     "content/99-scratchpad/2025/09-September/2025-09-19-Fri",
     "content/99-scratchpad/2025/09-September/2025-09-15-Mon/02-learning-golang-packages-modules-2025-09-15.md",
     "content/99-scratchpad/2025/09-September/2025-09-15-Mon/01-start-2025-09-15.md",
