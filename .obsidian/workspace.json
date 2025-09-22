@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0ebd6a6b9695fe94",
+        "id": "829028f3cd48e3db",
         "type": "tabs",
         "children": [
           {
-            "id": "c2bf80d0253c3b82",
+            "id": "ff352a9595cf171c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:golang",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "content/99-scratchpad/2025/09-September/2025-09-19-Fri/03-learning-golang-mutexes-2024-09-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 03-learning-golang-mutexes-2024-09-19"
             }
           }
         ]
@@ -211,11 +212,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c2bf80d0253c3b82",
+  "active": "c34b124b9b36576e",
   "lastOpenFiles": [
-    "content/99-scratchpad/2025/09-September/2025-09-19-Fri/03-learning-golang-mutexes-2024-09-19.md",
-    "content/99-scratchpad/2025/09-September/2025-09-19-Fri/01-start-2025-09-19.md",
     "content/99-scratchpad/2025/09-September/2025-09-19-Fri/02-learning-golang-channels-2025-09-19.md",
+    "content/99-scratchpad/2025/09-September/2025-09-19-Fri/03-learning-golang-mutexes-2024-09-19.md",
+    "content/70-areas/100-golang/index.md",
+    "content/10-obsidian/templates/new-note.md",
+    "content/10-obsidian/templates/01-start.md",
+    "content/50-projects/archived/placeholder.md",
+    "content/70-areas/100-golang",
+    "content/70-areas",
+    "content/50-projects/active/placeholder.md",
+    "content/50-projects/archived",
+    "content/50-projects/active",
+    "content/50-projects/Untitled.md",
+    "content/index.md",
+    "content/50-projects",
+    "content/99-scratchpad/2025/09-September/2025-09-19-Fri/01-start-2025-09-19.md",
     "content/99-scratchpad/2025/09-September/2025-09-19-Fri",
     "content/99-scratchpad/2025/09-September/2025-09-15-Mon/02-learning-golang-packages-modules-2025-09-15.md",
     "content/99-scratchpad/2025/09-September/2025-09-15-Mon/01-start-2025-09-15.md",
@@ -231,23 +244,11 @@
     "content/99-scratchpad/2025/09-September/2025-09-02-Tue/02-learning-golang-interfaces-2025-09-01.md",
     "content/99-scratchpad/2025/09-September/2025-09-06-Sat/01-start-2025-09-06.md",
     "content/99-scratchpad/2025/09-September/2025-09-06-Sat",
-    "content/index.md",
     "content/99-scratchpad/2025/09-September/2025-09-04-Thu/01-start-2025-09-04.md",
     "content/99-scratchpad/2025/09-September/2025-09-04-Thu",
     "content/99-scratchpad/2025/09-September/2025-09-03-Wed/01-start-2025-09-03.md",
-    "content/99-scratchpad/2025/09-September/2025-09-03-Wed",
     "content/99-scratchpad/2025/09-September/2025-09-02-Tue/01-start-2025-09-02.md",
-    "content/99-scratchpad/2025/09-September/2025-09-02-Tue",
     "content/99-scratchpad/2025/09-September/2025-09-01-Mon/03-learning-golang-functions-2025-09-01.md",
-    "content/99-scratchpad/2025/09-September/2025-09-01-Mon/02-learning-golang-conditionals-2025-09-01.md",
-    "content/99-scratchpad/2025/08-August/2025-08-31-Sun/03-learning-golang-2025-08-31.md",
-    "content/99-scratchpad/2025/09-September/2025-09-01-Mon/01-start-2025-09-01.md",
-    "content/99-scratchpad/2025/09-September/2025-09-01-Mon/Untitled.base",
-    "content/99-scratchpad/2025/09-September/2025-09-01-Mon",
-    "content/99-scratchpad/2025/09-September",
-    "content/10-obsidian/templates/new-note.md",
-    "content/99-scratchpad/2025/08-August/2025-08-31-Sun/01-start-2025-08-31.md",
-    "content/99-scratchpad/2025/08-August/2025-08-31-Sun/02-initial-thoughts-2025-08-31.md",
-    "content/10-obsidian/templates/01-start.md"
+    "content/99-scratchpad/2025/09-September/2025-09-01-Mon/02-learning-golang-conditionals-2025-09-01.md"
   ]
 }

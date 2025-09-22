@@ -1,6 +1,8 @@
 ---
-tags: []
-created: "2025-09-19"
+tags:
+  - boot-dot-dev
+  - golang
+created: 2025-09-19
 modified: []
 title: ""
 ---
