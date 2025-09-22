@@ -157,13 +157,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/99-scratchpad/2025/09-September/2025-09-19-Fri/03-learning-golang-mutexes-2024-09-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03-learning-golang-mutexes-2024-09-19"
+              "title": "Outline"
             }
           }
         ]
@@ -212,10 +211,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c34b124b9b36576e",
+  "active": "decdbbb8151243de",
   "lastOpenFiles": [
-    "content/99-scratchpad/2025/09-September/2025-09-19-Fri/02-learning-golang-channels-2025-09-19.md",
     "content/99-scratchpad/2025/09-September/2025-09-19-Fri/03-learning-golang-mutexes-2024-09-19.md",
+    "content/99-scratchpad/2025/09-September/2025-09-19-Fri/02-learning-golang-channels-2025-09-19.md",
     "content/70-areas/100-golang/index.md",
     "content/10-obsidian/templates/new-note.md",
     "content/10-obsidian/templates/01-start.md",
